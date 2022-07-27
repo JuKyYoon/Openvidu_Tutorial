@@ -1,0 +1,49 @@
+{
+    "sessions": [
+        {
+            "sessionId": "ses_SHpbA7I8KE",
+            "properties": {
+                "transcodingAllowed": false
+            },
+            "connections": [
+                {
+                    "connectionId": "con_P0fu5M1c3I",
+                    "status": "active",
+                    "location": "unknown",
+                    "ip": "172.17.0.1",
+                    "platform": "Chrome 103.0.0.0 on Windows 10 64-bit",
+                    "clientData": "{\"clientData\":\"myname\"}",
+                    "token": "wss://localhost:4443?sessionId=ses_SHpbA7I8KE&token=tok_LgQHA672dtc0slhl",
+                    "publishers": [],
+                    "subscribers": [],
+                    "type": "WEBRTC",
+                    "role": "PUBLISHER",
+                    "customIceServers": [],
+                    "rtspUri": null,
+                    "networkCache": null,
+                    "serverData": "test user"
+                }
+            ],
+            "activeConnections": [
+                {
+                    "connectionId": "con_P0fu5M1c3I",
+                    "status": "active",
+                    "location": "unknown",
+                    "ip": "172.17.0.1",
+                    "platform": "Chrome 103.0.0.0 on Windows 10 64-bit",
+                    "clientData": "{\"clientData\":\"myname\"}",
+                    "token": "wss://localhost:4443?sessionId=ses_SHpbA7I8KE&token=tok_LgQHA672dtc0slhl",
+                    "publishers": [],
+                    "subscribers": [],
+                    "type": "WEBRTC",
+                    "role": "PUBLISHER",
+                    "customIceServers": [],
+                    "rtspUri": null,
+                    "networkCache": null,
+                    "serverData": "test user"
+                }
+            ],
+            "beingRecorded": false
+        }
+    ]
+}
